@@ -29,15 +29,13 @@ def upload_image():
 
 
     model= "neural_style/saved_models/" + style_name + ".pth"
-     
+    input_image = "neural_style/images/content-images/" + img 
     output_image = "neural_style/images/output-images/" + style_name + "-" + img
 
     if image_file is not None:
         print("Successfully Uploaded!!!")
-        input_image = "neural_style/images/content-images/" + img
         image = Image.open(image_file)
     else:
-        input_image = "neural_style/images/content-images/" + img
         image = Image.open(input_image)
 
     st.write('### Source image:')
@@ -48,7 +46,10 @@ def upload_image():
     if clicked:
         caching.clear_cache()
         model = style.load_model(model)
-        style.stylize(model, input_image, output_image)
+        if image_file is not None:
+            style.stylize(model, image_file, output_image)
+        else:
+            style.stylize(model, input_image, output_image)
 
         st.write('### Output image:')
         image = Image.open(output_image)
