@@ -23,5 +23,5 @@ Move the *saved_models* folder into the *neural_style* folder.
 
 Run
 ```console
-streamlit run main.py
+streamlit run app.py
 ```
