@@ -28,7 +28,7 @@ def upload_image():
     )
 
 
-    model= "saved_models/" + style_name + ".pth"
+    model= "neural_styles//saved_models/" + style_name + ".pth"
     input_image = "neural_style//images/content-images/" + img 
     output_image = "neural_style//images/output-images/" + style_name + "-" + img
 
