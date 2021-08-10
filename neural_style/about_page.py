@@ -4,7 +4,7 @@ from PIL import Image
 def show_devs():
     st.title('Hi!!!')
 
-    st.image("data//t.png", width = 200)
+    #st.image("data//t.png", width = 200)
     st.write("## I am **Tura**")
     st.header("I'm a **2nd Year, 3rd Semester** student @ **[Daffodil International University](https://daffodilvarsity.edu.bd/)** ")
     st.write("### This is my first Machine Learning Project named as **[Style Transfer](https://github.com/PrincessPride/ML-Salary-Prediction)**. \
