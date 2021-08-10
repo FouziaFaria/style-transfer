@@ -12,9 +12,9 @@ def show_devs():
     st.write("### I have a passion for art & crafts. I try to build things as visually appealing as possible. I have won many awards and prizes in my life as an Artist.")
     
     st.write("## Some of My **Works**:")
-    st.image("data//1.jpeg")
-    st.image("data//2.jpeg")
-    st.image("data//3.jpeg")
+    st.image("neural_style//data//1.jpeg")
+    st.image("neural_style//data//2.jpeg")
+    st.image("neural_style//data//3.jpeg")
     st.image("data//4.jpeg")
     st.image("data//5.jpeg")
     st.write("## My gift to our Previous Departmemt Head [Syed Akhter Hossain](https://en.wikipedia.org/wiki/Syed_Akhter_Hossain):")
