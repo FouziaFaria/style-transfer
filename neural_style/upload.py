@@ -28,9 +28,9 @@ def upload_image():
     )
 
 
-    model= "neural_styles//saved_models/" + style_name + ".pth"
-    input_image = "neural_style//images/content-images/" + img 
-    output_image = "neural_style//images/output-images/" + style_name + "-" + img
+    model= "neural_style/saved_models/" + style_name + ".pth"
+    input_image = "neural_style/images/content-images/" + img 
+    output_image = "neural_style/images/output-images/" + style_name + "-" + img
 
     if image_file is not None:
         print("Successfully Uploaded!!!")
