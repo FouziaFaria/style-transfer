@@ -1,8 +1,4 @@
 # Streamlit Style Transfer App
-In this tutorial we build an interactive deep learning app with Streamlit and PyTorch to apply style transfer. 
-
-## Watch the Tutorial
-  [![Alt text](https://img.youtube.com/vi/M3lZNbFJ6I0/hqdefault.jpg)](https://youtu.be/M3lZNbFJ6I0)
 
 ## References
 Based on this fast neural style code:
@@ -27,5 +23,5 @@ Move the *saved_models* folder into the *neural_style* folder.
 
 Run
 ```console
-streamlit run main.py
+streamlit run app.py
 ```
