@@ -25,9 +25,29 @@ Based on this fast neural style code:
 
 # Installation
 It is recommended to use a virtual environment before installing the dependencies
-```console
-pip install streamlit
-pip install torch torchvision
+
+### Create conda environment
+Therefore, we will create a conda environment called *performance*
+```
+conda create -n performance python=3.8.8
+```
+Then, we will login to the *performance* environement
+```
+conda activate performance
+```
+
+### Install prerequisite libraries
+
+Download requirements.txt file
+
+```
+wget https://raw.githubusercontent.com/PrincessPride/ML-Salary-Prediction/master/requirements.txt
+
+```
+
+Pip install libraries
+```
+pip install -r requirements.txt
 ```
 
 # Usage
