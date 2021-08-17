@@ -2,8 +2,8 @@
 
 <p align="center">
     <img src="images/style-images/mosaic.jpg" height="200px">
-    <img src="images/content-images/amber.jpg" height="200px">
-    <img src="images/output-images/amber-mosaic.jpg" height="200px">
+    <img src="images/content-images/elon.jpg" height="200px">
+    <img src="images/output-images/mosaic-elon.jpg" height="200px">
 </p>
 
 # Dependencies
