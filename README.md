@@ -1,5 +1,11 @@
 # Style Transfer using ML
 
+<p align="center">
+    <img src="images/style-images/mosaic.jpg" height="200px">
+    <img src="images/content-images/amber.jpg" height="200px">
+    <img src="images/output-images/amber-mosaic.jpg" height="200px">
+</p>
+
 # Dependencies
 
 [<img align="left" width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />][Streamlit]
@@ -52,6 +58,23 @@ pip install -r requirements.txt
 
 # Usage
 Download the pretrained models
+
+<div align='center'>
+  <img src='images/content-images/amber.jpg' height="174px">
+</div>
+
+<div align='center'>
+  <img src='images/style-images/mosaic.jpg' height="174px">
+  <img src='images/output-images/amber-mosaic.jpg' height="174px">
+  <img src='images/output-images/amber-candy.jpg' height="174px">
+  <img src='images/style-images/candy.jpg' height="174px">
+  <br>
+  <img src='images/style-images/rain-princess-cropped.jpg' height="174px">
+  <img src='images/output-images/amber-rain-princess.jpg' height="174px">
+  <img src='images/output-images/amber-udnie.jpg' height="174px">
+  <img src='images/style-images/udnie.jpg' height="174px">
+</div>
+
 ```console
 python download_saved_models.py
 ```
