@@ -64,10 +64,10 @@ Download the pretrained models
 </div>
 
 <div align='center'>
-  <img src='images/style-images/mosaic.jpg' height="174px">
-  <img src='images/output-images/amber-mosaic.jpg' height="174px">
-  <img src='images/output-images/amber-candy.jpg' height="174px">
-  <img src='images/style-images/candy.jpg' height="174px">
+  <img src='neural_style/images/style-images/candy.jpg' height="174px">
+  <img src='neural_style/images/style-images/mosaic.jpg' height="174px">
+  <img src='neural_style/images/style-images/rain-princess.jpg' height="174px">
+  <img src='neural_style/images/style-images/rain-princess-cropped.jpg' height="174px">
   <br>
   <img src='images/style-images/rain-princess-cropped.jpg' height="174px">
   <img src='images/output-images/amber-rain-princess.jpg' height="174px">
