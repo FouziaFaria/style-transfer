@@ -12,7 +12,7 @@
 
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />][pytorch]
 
-<br />
+<br/>
 
 # Languages and Tools
 
