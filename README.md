@@ -1,9 +1,9 @@
 # Style Transfer using ML
 
 <p align="center">
-    <img src="style-transfer/neural_style/images/style-images/mosaic.jpg" height="200px">
-    <img src="neural_style/images/content-images/cat.jpg" height="200px">
-    <img src="style-transfer/neural_style/images/output-images/mosaic-elon.jpg" height="200px">
+    <img src="neural_style/images/style-images/mosaic.jpg" height="200px">
+    <img src="neural_style/images/content-images/elon.jpg" height="200px">
+    <img src="neural_style/images/output-images/mosaic-elon.jpg" height="200px">
 </p>
 
 # Dependencies
