@@ -60,14 +60,18 @@ pip install -r requirements.txt
 Download the pretrained models
 
 <div align='center'>
-  <img src='images/content-images/amber.jpg' height="174px">
+  <img src='neural_style/images/content-images/elon.jpg' height="174px">
 </div>
 
 <div align='center'>
   <img src='neural_style/images/style-images/candy.jpg' height="174px">
+  <img src='neural_style/images/output-images/candy-elon.jpg' height="174px">
   <img src='neural_style/images/style-images/mosaic.jpg' height="174px">
+  <img src='neural_style/images/output-images/mosaic-elon.jpg' height="174px">
   <br>
   <img src='neural_style/images/style-images/rain-princess.jpg' height="174px">
+  <img src='neural_style/images/style-images/candy.jpg' height="174px">
+  <img src='neural_style/images/style-images/candy.jpg' height="174px">
   <img src='neural_style/images/style-images/rain-princess-cropped.jpg' height="174px">
   <br>
   <img src='neural_style/images/style-images/udnie.jpg' height="174px">
