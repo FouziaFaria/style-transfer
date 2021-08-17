@@ -29,7 +29,7 @@ It is recommended to use a virtual environment before installing the dependencie
 ### Create conda environment
 Therefore, we will create a conda environment called *performance*
 ```
-conda create -n performance python=3.8.8
+conda create -n performance python=3.7.9
 ```
 Then, we will login to the *performance* environement
 ```
