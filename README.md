@@ -30,7 +30,7 @@
 
 # References
 Based on this fast neural style code:
-[Fast Neural Style](https://github.com/pytorch/examples/tree/master/fast_neural_style)
+[Fast Neural Style](https://github.com/pytorch)
 
 # Installation
 It is recommended to use a virtual environment before installing the dependencies
