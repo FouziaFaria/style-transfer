@@ -69,10 +69,10 @@ Download the pretrained models
   <img src='neural_style/images/output-images/mosaic-elon.jpg' height="174px">
   <img src='neural_style/images/style-images/mosaic.jpg' height="174px">
   <br>
-  <img src='neural_style/images/style-images/rain-princess-cropped.jpg' height="174px">
-  <img src='neural_style/images/output-images/rain_princess-elon.jpg' height="174px">
   <img src='neural_style/images/output-images/udnie-elon.jpg' height="174px">
   <img src='neural_style/images/style-images/udnie.jpg' height="174px">
+  <img src='neural_style/images/style-images/rain-princess-cropped.jpg' height="174px">
+  <img src='neural_style/images/output-images/rain_princess-elon.jpg' height="174px">
 </div>
 
 ```console
