@@ -1,19 +1,36 @@
-# Streamlit Style Transfer App
+# Style Transfer using ML
 
-## References
+# Dependencies
+
+[<img align="left" width="30px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />][Streamlit]
+
+[<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />][pytorch]
+
+<br />
+
+# Languages and Tools
+
+[<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+[<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />][jupyter notebook]
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+
+<br />
+
+# References
 Based on this fast neural style code:
 [Fast Neural Style](https://github.com/pytorch/examples/tree/master/fast_neural_style)
 
-[Streamlit website](https://www.streamlit.io/)
-
-## Installation
+# Installation
 It is recommended to use a virtual environment before installing the dependencies
 ```console
 pip install streamlit
 pip install torch torchvision
 ```
 
-## Usage
+# Usage
 Download the pretrained models
 ```console
 python download_saved_models.py
@@ -25,3 +42,12 @@ Run
 ```console
 streamlit run app.py
 ```
+
+[Streamlit]: https://streamlit.io/
+[pytorch]: https://pytorch.org/
+[python]: https://www.python.org/
+[jupyter notebook]: https://jupyter.org/
+[Visual Studio Code]: https://code.visualstudio.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[terminal]: https://sourceforge.net/projects/windows-terminal.mirror/
