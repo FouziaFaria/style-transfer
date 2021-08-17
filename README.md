@@ -41,7 +41,7 @@ conda activate performance
 Download requirements.txt file
 
 ```
-wget https://raw.githubusercontent.com/PrincessPride/ML-Salary-Prediction/master/requirements.txt
+wget https://raw.githubusercontent.com/FouziaFaria/style-transfer/main/requirements.txt
 
 ```
 
